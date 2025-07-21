@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(22, 92, 92);
+}
+.lorem{
+    background-color: rgb(227, 227, 132);
+    margin-top: 100px;
+    margin-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h1{
+    background-color: rgb(230, 95, 95);
+    margin-right: 900px;
+
+
+}
+
+
+#img{
+    margin-left: 40px;
+   
+}
+section{
+    display: flex;
+    margin: 30px;
+    gap: 20px;
+}
